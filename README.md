@@ -75,7 +75,7 @@ Ao consultar o estoque, será possível visualizar a quantidade restante de cada
 
 Selecione a opção Sair no menu principal. O programa será finalizado e todas as informações salvas permanecerão armazenadas para uso futuro.
 
-## Integrantes do Grupo
+# Integrantes do Grupo
 
 RA: 8261105241  
 Leandro Oliveira da Silva
